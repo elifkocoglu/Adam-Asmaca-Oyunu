@@ -1,0 +1,10 @@
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\bin\Debug\AdamAsmacaGUI.exe.config
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\bin\Debug\AdamAsmacaGUI.exe
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\bin\Debug\AdamAsmacaGUI.pdb
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\obj\Debug\AdamAsmacaGUI.csprojAssemblyReference.cache
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\obj\Debug\AdamAsmacaGUI.Form1.resources
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\obj\Debug\AdamAsmacaGUI.Properties.Resources.resources
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\obj\Debug\AdamAsmacaGUI.csproj.GenerateResource.cache
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\obj\Debug\AdamAsmacaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\obj\Debug\AdamAsmacaGUI.exe
+C:\Users\Elif Koçoğlu\source\repos\AdamAsmacaGUI\AdamAsmacaGUI\obj\Debug\AdamAsmacaGUI.pdb
